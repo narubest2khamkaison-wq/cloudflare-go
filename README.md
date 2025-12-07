@@ -434,3 +434,20 @@ This SDK is actively maintained, however, many issues are tracked outside of Git
 ## Contributing
 
 See [the contributing documentation](./CONTRIBUTING.md).
+Windows IP Configuration
+
+Unknown adapter CloudflareWARP:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Cloudflare WARP Interface Tunnel
+   Physical Address. . . . . . . . . :
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2606:4700:110:8f79:145:f180:fc4:8106(Preferred)
+   Link-local IPv6 Address . . . . . : fe80::83b:d647:4bed:d388%49(Preferred)
+   IPv4 Address. . . . . . . . . . . : 172.16.0.2(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.255
+   Default Gateway . . . . . . . . . :
+   DNS Servers . . . . . . . . . . . : 127.0.2.2
+                                       127.0.2.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
